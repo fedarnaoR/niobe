@@ -1,6 +1,7 @@
 public class Hello {
 	private Integer id;
 	private String name;
+	private String age;
 
 	public Integer getId() {
 		return id;
